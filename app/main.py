@@ -23,4 +23,4 @@ app.include_router(book.router)
 
 @app.get("/",status_code=status.HTTP_200_OK)
 def root():
-    return {"Library app"}
+    return {"Welcome to Library app"}

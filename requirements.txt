@@ -43,7 +43,6 @@ rsa==4.8
 six==1.16.0
 sniffio==1.2.0
 SQLAlchemy==1.4.32
-starlette==0.17.1
 tomli==2.0.1
 typing-extensions==4.2.0
 ujson==5.2.0
